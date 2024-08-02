@@ -39,3 +39,4 @@ This application allows you to securely store your documents. It uses Firebase O
 ## Technologies Used
 
 - React
+- Tailwind CSS
